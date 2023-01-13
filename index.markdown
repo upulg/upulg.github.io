@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Mote items
+
+[A_series](/_kb_A_series/A_series.markdown)
+
+[A_series index](/_kb_A_series/kb_A_series.html)
