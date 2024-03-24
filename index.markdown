@@ -9,7 +9,7 @@ This is my Jekyll test site.
 Looks like it is not possible to embed youtube videos.
 
 ![paddy field in Sri Lanka](/images/paddy_field_3.jpg)
-Above is an openart.ai generated image.
+Paddy field in Sri Lanka - thanks to openart.ai image generation.
 
-# Who likes Jekyl?
+## Who likes Jekyl?
 Not me!
