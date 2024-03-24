@@ -7,3 +7,5 @@ layout: home
 
 This is my Jekyll test site.
 Looks like it is not possible to embed youtube videos.
+
+![](/images/paddy_field_3.jpg)
