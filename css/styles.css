@@ -1,0 +1,90 @@
+h1 {
+    font-size: 24pt;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+h3 {
+    font-size: 16pt;
+}
+
+body,
+div,
+p,
+td,
+th,
+ul,
+ol,
+li {
+    margin: 2px;
+    padding: 10;
+    font-size: 16px;
+    background-color: #ffffff;
+    font-family: "Calibri", Helvetica, Arial, sans-serif;
+}
+
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
+.address p {
+    font-size: 10pt;
+    padding: 0;
+}
+
+.cols {
+    text-align: center;
+}
+
+.col1 {
+    float: left;
+    width: 34%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.col2 {
+    float: left;
+    width: 33%;
+    text-align: center;
+    margin-top: 10px;
+    color: #00000b;
+}
+
+.col3 {
+    float: left;
+    width: 33%;
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+{
+    box-sizing: border-box
+}
+
+.image-slideshow {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .col1,
+    .col2,
+    .col3 {
+        width: 100%;
+    }
+}
