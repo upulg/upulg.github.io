@@ -1,0 +1,40 @@
+/* Dropdown Block */
+.dp-block{
+    background: #f9f9f9;
+}
+.dp-block .row{
+    margin-top: 2rem;
+}
+.dp-item{
+    margin: 0.6rem 0;
+}
+.normal-head{
+    /* background: var(--white-smoke); */
+    /* background-color: aqua; */
+    align-items: center;
+    padding: 0.2rem 1.8rem;
+}
+.dp-head{
+    background: var(--white-smoke);
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 0.2rem 1.8rem;
+}
+.dp-head h3{
+    font-weight: 300;
+    opacity: 0.8;
+}
+.dp-content{
+    background: #fff;
+    overflow: hidden;
+    height: 0;
+    padding: 0 1.8rem;
+    transition: var(--transition);
+}
+.show-dp-content{
+    height: 375px;  
+    padding: 0.6rem 1.8rem;
+}
