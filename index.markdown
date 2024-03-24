@@ -7,9 +7,8 @@ layout: home
 
  
 
-
-
-I am trying out jekyll - looks like it can't embed youTube videos.
+This is where I try out jekyll.
+I don't find that to be useful - looks like it can't embed youTube videos.
 
 
 
